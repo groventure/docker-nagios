@@ -1,0 +1,15 @@
+[submodule "base"]
+	path = base
+	url = ./base
+[submodule "cgi-data"]
+	path = cgi-data
+	url = ./cgi-data
+[submodule "cgi"]
+	path = cgi
+	url = ./cgi
+[submodule "core-data"]
+	path = core-data
+	url = ./core-data
+[submodule "core"]
+	path = core
+	url = ./core
