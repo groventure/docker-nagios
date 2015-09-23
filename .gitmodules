@@ -1,15 +1,15 @@
 [submodule "base"]
 	path = base
-	url = ./base.git
+	url = git@github.com:groventure/docker-nagios-base.git
 [submodule "cgi-data"]
 	path = cgi-data
-	url = ./cgi-data.git
+	url = git@github.com:groventure/docker-nagios-cgi-data.git
 [submodule "cgi"]
 	path = cgi
-	url = ./cgi.git
+	url = git@github.com:groventure/docker-nagios-cgi.git
 [submodule "core-data"]
 	path = core-data
-	url = ./core-data.git
+	url = git@github.com:groventure/docker-nagios-core-data.git
 [submodule "core"]
 	path = core
-	url = ./core.git
+	url = git@github.com:groventure/docker-nagios-core.git
