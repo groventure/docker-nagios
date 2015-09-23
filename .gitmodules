@@ -1,15 +1,15 @@
 [submodule "base"]
 	path = base
-	url = ./base
+	url = ./base.git
 [submodule "cgi-data"]
 	path = cgi-data
-	url = ./cgi-data
+	url = ./cgi-data.git
 [submodule "cgi"]
 	path = cgi
-	url = ./cgi
+	url = ./cgi.git
 [submodule "core-data"]
 	path = core-data
-	url = ./core-data
+	url = ./core-data.git
 [submodule "core"]
 	path = core
-	url = ./core
+	url = ./core.git
